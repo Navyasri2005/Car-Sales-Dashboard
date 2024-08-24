@@ -16,7 +16,7 @@
 * This consistency helps to create a cohesive and recognizable brand identity.
 
 4. Visual Grouping:
-* The dashboard groups related information together (e.g., repository details, commit history, and branches), making it easy to scan and understand.
+* The dashboard groups related information together, making it easy to scan and understand.
 * Visual grouping is achieved through the use of white space, borders, and color.
 
 5. Highlighting Important Information:
